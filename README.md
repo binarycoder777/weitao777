@@ -21,13 +21,13 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img width="8%"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img width="10%"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
 <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>
 </p>
