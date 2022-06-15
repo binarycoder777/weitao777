@@ -12,13 +12,13 @@
 
 #### 🌱 我当前正在做的事: 
 - 完成我的计算机科学与工程学士学位
-- 进行Java和后端开发相关的知识学习
+- 进行Java后端开发相关的知识学习
 - 通过项目实践，对所学的知识进行巩固
 #### :muscle: 我正在挑战的事:
-- Waking up earlier to make good use of the day
 - 每天坚持早起，充分利用好每一天
 - 每天至少进行四小时的编程，保持状态
-- 每周至少不少于三次锻炼，保持好身体
+- 每周不少于三次锻炼，保持健康身体
+- 晚上睡前
 
 #### :computer: Programming languages and tools: 
 <p>
