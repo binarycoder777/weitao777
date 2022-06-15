@@ -10,7 +10,7 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 - Completing my Bachelor's degree in Computer Science and Engineering  
 - Learn Java backend development related knowledge  
 - Consolidate the knowledge learned through project practice 
-#### : Muscle: What I'm trying to do:  
+#### 💪🏻 What I'm trying to do:  
 - Get up early and make the most of your day  
 - Do at least four hours of programming a day to stay on track  
 - Exercise at least three times a week to keep fit  
