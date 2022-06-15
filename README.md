@@ -19,7 +19,6 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 #### :computer: Programming languages and tools: 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&hide_border=true" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weitao777&" alt="weitao777" /></p>
 <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img width="10%"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
