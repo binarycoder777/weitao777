@@ -24,8 +24,8 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 <code><img width="8%"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
