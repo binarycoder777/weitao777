@@ -5,7 +5,7 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
 
- <img align="right" width="412" height="500" alt="image" src="https://user-images.githubusercontent.com/72557529/174254844-de6a2aaf-c97f-4d70-9d31-1fb5daf23067.png">
+ <img align="right" width="412" height="300" alt="image" src="https://user-images.githubusercontent.com/72557529/174254844-de6a2aaf-c97f-4d70-9d31-1fb5daf23067.png">
 
 #### 🌱 What I'm doing right now: 
 - Completing my Bachelor's degree in Computer Science and Engineering  
