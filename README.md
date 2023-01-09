@@ -5,7 +5,7 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 
 <!-- <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" /> -->
 
- <img align="right" width="412" height="300" alt="image" src="https://user-images.githubusercontent.com/72557529/174254844-de6a2aaf-c97f-4d70-9d31-1fb5daf23067.png">
+ <img align="right" width="412" height="600" alt="image" src="https://user-images.githubusercontent.com/72557529/174254844-de6a2aaf-c97f-4d70-9d31-1fb5daf23067.png">
 
 #### 🌱 What I'm doing right now: 
 - Completing my Bachelor's degree in Computer Science and Engineering  
@@ -17,5 +17,5 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 - Exercise at least three times a week to keep fit  
 - Read books before going to bed at night to broaden your horizon 
 <p>
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&hide_border=true" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&hide_border=true" />
 </p>
