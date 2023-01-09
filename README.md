@@ -14,7 +14,9 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 - Do at least four hours of programming a day to stay on track  
 - Exercise at least three times a week to keep fit  
 - Read books before going to bed at night to broaden your horizon 
-<!-- ### 💐 what I hava done :
--  -->
-<img width="100%" align="right" src="https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&hide_border=true" />
+### 💐 what I hava done :
+- Master Java related technology stack
+- Have some knowledge about distributed
+- Familiar with related component principles
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&hide_border=true" />
 
