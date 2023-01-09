@@ -4,7 +4,6 @@
 Welcome to my Github home page!  My name is Wei Tao and I am currently completing my bachelor's degree in computer Science and engineering in Chongqing University of Technology! 
 
  <img align="right" width="50%" height="auto" alt="image" src="https://user-images.githubusercontent.com/72557529/174254844-de6a2aaf-c97f-4d70-9d31-1fb5daf23067.png">
- 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&hide_border=true" />
 
 #### 🌱 What I'm doing right now : 
