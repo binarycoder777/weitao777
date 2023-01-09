@@ -2,7 +2,6 @@
 ### This is weitao777! [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/weitao777)
 
 Welcome to my Github home page!  My name is Wei Tao and I am currently completing my bachelor's degree in computer Science and engineering in Chongqing University of Technology! 
-<p></p>
  <img align="right" width="50%" height="auto" alt="image" src="https://user-images.githubusercontent.com/72557529/174254844-de6a2aaf-c97f-4d70-9d31-1fb5daf23067.png">
  
  
@@ -17,8 +16,4 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 - Do at least four hours of programming a day to stay on track  
 - Exercise at least three times a week to keep fit  
 - Read books before going to bed at night to broaden your horizon 
-### 💐 what I hava done :
-- Master Java related technology stack
-- Have some knowledge about distributed
-- Familiar with related component principles
 
