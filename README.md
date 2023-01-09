@@ -17,5 +17,5 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 - Exercise at least three times a week to keep fit  
 - Read books before going to bed at night to broaden your horizon 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&hide_border=true" />
 </p>
