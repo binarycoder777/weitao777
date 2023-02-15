@@ -3,7 +3,7 @@
 
 Welcome to my Github home page!  My name is Wei Tao and I am currently completing my bachelor's degree in computer Science and engineering in Chongqing University of Technology! 
 
- <img align="right" width="50%" height="auto" alt="image" src="https://user-images.githubusercontent.com/72557529/174254844-de6a2aaf-c97f-4d70-9d31-1fb5daf23067.png">
+ <img align="right" width="100%" height="auto" alt="image" src="https://user-images.githubusercontent.com/72557529/174254844-de6a2aaf-c97f-4d70-9d31-1fb5daf23067.png">
  
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 #### 🌱 What I'm doing right now : 
