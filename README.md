@@ -1,10 +1,9 @@
+
 ### Hi there！ 👋 
-### This is weitao777! [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/weitao777)
+### This is weitao777! [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/weitao777) ![](https://visitor-badge.glitch.me/badge?page_id=weitao777.readme)
 
 Welcome to my Github home page!  My name is Wei Tao and I am currently completing my bachelor's degree in computer Science and engineering in Chongqing University of Technology! 
 
- <img align="right" width="100%" height="auto" alt="image" src="https://user-images.githubusercontent.com/72557529/174254844-de6a2aaf-c97f-4d70-9d31-1fb5daf23067.png">
- 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 #### 🌱 What I'm doing right now : 
 - Completing my Bachelor's degree in Computer Science and Engineering  
@@ -15,6 +14,3 @@ Welcome to my Github home page!  My name is Wei Tao and I am currently completin
 - Do at least four hours of programming a day to stay on track  
 - Exercise at least three times a week to keep fit  
 - Read books before going to bed at night to broaden your horizon 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weitao777&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
