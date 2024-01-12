@@ -9,7 +9,8 @@ Welcome to my Github home page! I am currently completing my bachelor's degree i
 <img width="50%" align="right" height="auto" src="https://github-readme-stats.vercel.app/api?username=weitao777&show_icons=true&hide_border=true" />
 
 #### 🌱 What I'm doing right now : 
-- Completing my Bachelor's degree in Computer Science and Engineering  
-- Learn Java backend development related knowledge  
-- Consolidate the knowledge learned through project practice 
+- Learn and practice backend development related knowledge in depth 
+- Learn about AI and frontend related knowledge in my free time  
+- Constantly accumulate development experience in project practice
+- Collect some cool ideas from my life and implement them
 - Exercise at least three times a week to keep fit
